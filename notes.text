@@ -1,0 +1,4 @@
+ what is the use of service in angular ? 
+ Service is what we get the data from the server or database. we can't we write it in the module.ts becuase in the application we need same data in different page or components so we need to write that in separate file. that service naming conversion must be include the service.ts in the angular project
+
+
